@@ -1,0 +1,2 @@
+#!/bin/sh
+curl -X POST --data '' http://localhost:8880/modules/git/public/web-hook.php?uuid=8a04d572-8b26-c72c-ee9c-bff65fa362cd
